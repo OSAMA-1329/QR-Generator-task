@@ -1,0 +1,13 @@
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: pink;
+  height: 100vh;
+}
+.wrapper.button {
+  color: black;
+  background-color: Skyblue;
+}
